@@ -3521,7 +3521,7 @@
 - [React Hooks Tutorial - A Crash Course on Styled Components, JSX, React Router, and HOC](https://www.youtube.com/watch?v=iVRO0toVdYM&ab_channel=freeCodeCamp.org)
 - [Understanding the Styled Components Basics - with React](https://www.youtube.com/watch?v=nkfaZ8ctzpE&ab_channel=DailyTuition)
 
-## 🐎 Sites e cursos para aprender Magento
+##  🐎 Sites e cursos para aprender Magento
 
 > Cursos para aprender Magento em Português
 
